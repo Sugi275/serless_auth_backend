@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/cndjp/Sugi275/src/handler"
-	"github.com/cndjp/Sugi275/src/httprouter"
+	"github.com/cndjp/Sugi275/serless_auth_backend/src/handler"
+	"github.com/cndjp/Sugi275/serless_auth_backend/src/httprouter"
 )
 
 func main() {
